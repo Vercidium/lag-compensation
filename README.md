@@ -1,5 +1,5 @@
 # lag-compensation
-Multiplayer lag compensation system that improves hit detection accuracy for players with high ping time.
+Multiplayer lag compensation system that improves hit detection accuracy for players with high ping time. Written in C# and open sourced from the Vercidium Engine.
 
 ## Overview
 This repository contains C# code for the lag compensation system used in the game [Sector's Edge](https://www.youtube.com/watch?v=qoKzhIouzsk).
